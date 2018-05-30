@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Lua/Create LuaDoc" />
-    <ignoreAction name="Lua/Create return annotation" />
-    <ignoreAction name="Lua/Remove call paren" />
-  </component>
-</application>
