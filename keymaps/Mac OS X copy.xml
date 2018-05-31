@@ -1,0 +1,41 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GuiDesigner.Duplicate" />
+  <action id="ParameterInfo" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="SendEOF" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+</keymap>
