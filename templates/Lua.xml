@@ -1,0 +1,19 @@
+<templateSet group="Lua">
+  <template name="cls" value="---@class $PARAMS$" description="class 注解" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMS" expression="completeSmart()" defaultValue="clsname" alwaysStopAt="true" />
+    <context>
+      <option name="LUA_CODE" value="true" />
+      <option name="LUA_FUNCTION" value="false" />
+      <option name="LUA_IF" value="false" />
+    </context>
+  </template>
+  <template name="fld" value="---@field $VARNAME$ $TYPE$" description="field 注解" toReformat="false" toShortenFQNames="true">
+    <variable name="VARNAME" expression="SuggestFirstLuaVarName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="complete()" defaultValue="string" alwaysStopAt="true" />
+    <context>
+      <option name="LUA_CODE" value="true" />
+      <option name="LUA_FUNCTION" value="false" />
+      <option name="LUA_IF" value="false" />
+    </context>
+  </template>
+</templateSet>
