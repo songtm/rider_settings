@@ -1,9 +1,16 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Debugger.EditCustomField" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt d" />
@@ -15,15 +22,44 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="alt g" />
+    <mouse-shortcut keystroke="alt button1" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
+  <action id="GotoPreviousError" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="ParameterInfo" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
+  <action id="Stop" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="meta f2" />
+  </action>
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
 </keymap>
