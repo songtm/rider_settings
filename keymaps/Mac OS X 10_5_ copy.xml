@@ -7,15 +7,27 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -50,6 +62,11 @@
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
   <action id="ReplaceInPath" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -60,6 +77,8 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="meta f2" />
   </action>
+  <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
