@@ -8,6 +8,7 @@
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="CheckinProject" />
   <action id="CompareTwoFiles" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
@@ -63,6 +64,9 @@
   </action>
   <action id="ReplaceInPath" />
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
