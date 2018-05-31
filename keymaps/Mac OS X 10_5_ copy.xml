@@ -2,6 +2,5 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="alt d" />
-    <keyboard-shortcut first-keystroke="alt s" />
   </action>
 </keymap>
