@@ -20,10 +20,10 @@
   <action id="CompareTwoFiles" />
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
+  <action id="Debugger.EditTypeSource" />
   <action id="Diff.ShowDiff" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="EditSource" />
+  <action id="EditSourceInNewWindow" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="meta button1" />
   </action>
@@ -77,11 +77,15 @@
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="GotoNextError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="shift f2" />
   </action>
-  <action id="GotoPreviousError" />
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f4" />
+  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
@@ -127,14 +131,10 @@
     <keyboard-shortcut first-keystroke="meta f2" />
   </action>
   <action id="UsageView.Rerun" />
-  <action id="Vcs.EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="Vcs.EditSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
-  <action id="XDebugger.JumpToSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="XDebugger.JumpToSource" />
   <action id="XDebugger.SetValue" />
   <action id="openAssertEqualsDiff" />
 </keymap>
