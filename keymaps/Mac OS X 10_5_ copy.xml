@@ -7,6 +7,10 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CheckinProject" />
   <action id="CodeCompletion">
