@@ -39,6 +39,7 @@
     <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="EvaluateExpression" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -61,6 +62,9 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="alt g" />
@@ -82,9 +86,14 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="HippieCompletion" />
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt f8" />
   </action>
   <action id="Refresh" />
   <action id="Replace" />
