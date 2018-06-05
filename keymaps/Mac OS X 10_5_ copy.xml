@@ -14,7 +14,6 @@
   <action id="ChangesView.Diff" />
   <action id="CheckinProject" />
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="CompareTwoFiles" />
