@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="tail" description="tail" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="tail log" description="tail unity game log" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/bin/tail" />
-      <option name="PARAMETERS" value="-f /Users/songtianming/Library/Logs/Unity/Editor.log" />
+      <option name="PARAMETERS" value="-f /Users/songtianming/Desktop/1.txt" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
