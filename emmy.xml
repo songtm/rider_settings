@@ -3,4 +3,11 @@
     <option name="luaCheck" value="/usr/local/bin/luacheck" />
     <option name="luaCheckArgs" value="-g" />
   </component>
+  <component name="LuaSettings">
+    <option name="additionalSourcesRoot">
+      <array>
+        <option value="$USER_HOME$/Documents/dev/proj/UnityFrameWork/IdeaLua/.lualib" />
+      </array>
+    </option>
+  </component>
 </application>
