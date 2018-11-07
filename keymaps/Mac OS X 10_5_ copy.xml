@@ -91,12 +91,13 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="LuaCheck">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
   <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
@@ -127,6 +128,9 @@
   </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
   <action id="Stop" />
   <action id="ToggleBookmark">
