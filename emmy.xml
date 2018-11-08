@@ -6,7 +6,8 @@
   <component name="LuaSettings">
     <option name="additionalSourcesRoot">
       <array>
-        <option value="$USER_HOME$/Documents/dev/proj/UnityFrameWork/IdeaLua/.lualib" />
+        <option value="$USER_HOME$/Documents/dev/SLZJProj/trunk/ProjectDemo/ProjectData/Scripts" />
+        <option value="$USER_HOME$/Documents/dev/SLZJProj/trunk/ProjectDemo/ProjectData/Scripts/Framework" />
       </array>
     </option>
   </component>
