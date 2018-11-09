@@ -3,12 +3,4 @@
     <option name="luaCheck" value="/usr/local/bin/luacheck" />
     <option name="luaCheckArgs" value="-g" />
   </component>
-  <component name="LuaSettings">
-    <option name="additionalSourcesRoot">
-      <array>
-        <option value="$USER_HOME$/Documents/dev/SLZJProj/trunk/ProjectDemo/ProjectData/Scripts" />
-        <option value="$USER_HOME$/Documents/dev/SLZJProj/trunk/ProjectDemo/ProjectData/Scripts/Framework" />
-      </array>
-    </option>
-  </component>
 </application>
