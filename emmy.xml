@@ -3,4 +3,7 @@
     <option name="luaCheck" value="/usr/local/bin/luacheck" />
     <option name="luaCheckArgs" value="-g" />
   </component>
+  <component name="LuaSettings">
+    <option name="languageLevel" value="Lua 5.1" />
+  </component>
 </application>
