@@ -1,4 +1,11 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="AceTargetAction">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+    <keyboard-shortcut first-keystroke="shift alt semicolon" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
