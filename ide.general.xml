@@ -8,6 +8,5 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
-    <entry key="ide.svg.icon" value="true" />
   </component>
 </application>
