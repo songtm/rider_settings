@@ -1,1 +1,5 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <codeStyleSettings language="Lua">
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
