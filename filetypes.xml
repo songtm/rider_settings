@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="xlua" type="PLAIN_TEXT" />
+      <mapping pattern="命名约定" type="PLAIN_TEXT" />
       <mapping ext="prefab" type="PLAIN_TEXT" />
       <mapping pattern="*.lua.txt" type="lua" />
     </extensionMap>
