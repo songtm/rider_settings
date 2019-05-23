@@ -1,7 +1,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
@@ -12,9 +11,10 @@
       <component name="ProjectModuleManager">
         <modules />
       </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="$USER_HOME$/Documents/tools/androidstudio_androidsdk" />
-        <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+        <property name="settings.editor.selected.configurable" value="org.ccdt.common.setting.CocosFrameworkComponent" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -107,7 +107,7 @@
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>IntelliJ IDEA Community Edition IC-181.5087.20</last-edited>
+              <last-edited>Kahlua</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
