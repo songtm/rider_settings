@@ -1,7 +1,11 @@
 <application>
   <component name="CodeLensSettings">
     <enabled>
-      <map />
+      <map>
+        <entry key="Unity implicit usage" value="false" />
+        <entry key="Unity serialized field" value="false" />
+        <entry key="Usages" value="false" />
+      </map>
     </enabled>
   </component>
 </application>
