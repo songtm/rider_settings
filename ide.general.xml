@@ -9,5 +9,7 @@
     <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="parameter.info.max.visible.rows" value="10" />
+    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>
