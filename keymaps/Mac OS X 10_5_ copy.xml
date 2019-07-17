@@ -142,6 +142,9 @@
   </action>
   <action id="UsageView.Rerun" />
   <action id="Vcs.EditSource" />
+  <action id="WelcomScreen.ManageLicense">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.JumpToSource" />
