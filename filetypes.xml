@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="bytes" type="PLAIN_TEXT" />
+      <mapping ext="all" type="PLAIN_TEXT" />
       <mapping pattern="*.lua.txt" type="lua" />
     </extensionMap>
   </component>
