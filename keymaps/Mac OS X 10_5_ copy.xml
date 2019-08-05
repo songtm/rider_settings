@@ -14,10 +14,6 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
-  <action id="CallHierarchy">
-    <keyboard-shortcut first-keystroke="ctrl alt h" />
-    <keyboard-shortcut first-keystroke="meta g" />
-  </action>
   <action id="ChangesView.Diff" />
   <action id="CheckinProject" />
   <action id="CodeCompletion">
@@ -81,6 +77,10 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="f2" />
