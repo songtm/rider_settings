@@ -6,7 +6,7 @@
   <component name="LuaSettings">
     <option name="additionalSourcesRoot">
       <array>
-        <option value="$USER_HOME$/Downloads/xframework/xframework/Assets/Lua" />
+        <option value="$USER_HOME$/Downloads/xframework/xframework/LuaAutoCompletion" />
       </array>
     </option>
     <option name="constructorNames">
