@@ -15,9 +15,10 @@
         <option value="get" />
         <option value="getInstance" />
         <option value="instance" />
+        <option value="inst" />
       </array>
     </option>
-    <option name="constructorNamesString" value="new;get;getInstance;instance" />
+    <option name="constructorNamesString" value="new;get;getInstance;instance;inst" />
     <option name="showWordsInFile" value="false" />
   </component>
 </application>
