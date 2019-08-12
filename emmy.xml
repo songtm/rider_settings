@@ -9,9 +9,11 @@
         <option value="new" />
         <option value="get" />
         <option value="getInstance" />
+        <option value="inst" />
+        <option value="instance" />
       </array>
     </option>
-    <option name="constructorNamesString" value="new;get;getInstance" />
-    <option name="languageLevel" value="Lua 5.1" />
+    <option name="constructorNamesString" value="new;get;getInstance;inst;instance" />
+    <option name="showWordsInFile" value="false" />
   </component>
 </application>
