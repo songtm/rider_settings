@@ -4,21 +4,16 @@
     <option name="luaCheckArgs" value="-g" />
   </component>
   <component name="LuaSettings">
-    <option name="additionalSourcesRoot">
-      <array>
-        <option value="$USER_HOME$/Downloads/xframework/xframework/LuaAutoCompletion" />
-      </array>
-    </option>
     <option name="constructorNames">
       <array>
         <option value="new" />
         <option value="get" />
         <option value="getInstance" />
-        <option value="instance" />
         <option value="inst" />
+        <option value="instance" />
       </array>
     </option>
-    <option name="constructorNamesString" value="new;get;getInstance;instance;inst" />
+    <option name="constructorNamesString" value="new;get;getInstance;inst;instance" />
     <option name="showWordsInFile" value="false" />
   </component>
 </application>
