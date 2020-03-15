@@ -14,6 +14,8 @@
       </array>
     </option>
     <option name="constructorNamesString" value="new;get;getInstance;inst;instance" />
+    <option name="enableGeneric" value="true" />
+    <option name="enforceTypeSafety" value="true" />
     <option name="showWordsInFile" value="false" />
   </component>
 </application>
