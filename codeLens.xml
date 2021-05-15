@@ -3,6 +3,8 @@
     <anchor>
       <map>
         <entry key="Derived symbols" value="Right" />
+        <entry key="Exposing API" value="Right" />
+        <entry key="Extension methods" value="Right" />
         <entry key="Unity implicit usage" value="Right" />
       </map>
     </anchor>
