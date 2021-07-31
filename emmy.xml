@@ -21,12 +21,6 @@
     <option name="constructorNamesString" value="new;get;getInstance;inst;instance" />
     <option name="enableGeneric" value="true" />
     <option name="enforceTypeSafety" value="true" />
-    <option name="requireLikeFunctionNames">
-      <array>
-        <option value="requirexx" />
-      </array>
-    </option>
-    <option name="requireLikeFunctionNamesString" value="requirexx" />
     <option name="showWordsInFile" value="false" />
   </component>
 </application>
