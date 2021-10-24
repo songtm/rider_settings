@@ -3,7 +3,7 @@
     <property name="created">2018-05-31T10:52:50</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-10-31T23:09:02</property>
+    <property name="modified">2021-10-24T21:42:00</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -16,7 +16,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d1eb35" />
-        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+        <option name="ERROR_STRIPE_COLOR" value="fff300" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -29,6 +29,13 @@
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="5d6567" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="52503a" />
+        <option name="ERROR_STRIPE_COLOR" value="8d7128" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
