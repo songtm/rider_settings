@@ -1,7 +1,18 @@
 <application>
   <component name="CodeLensSettings">
+    <anchor>
+      <map>
+        <entry key="Derived symbols" value="Right" />
+        <entry key="Exposing API" value="Right" />
+        <entry key="Extension methods" value="Right" />
+        <entry key="Unity implicit usage" value="Right" />
+      </map>
+    </anchor>
     <enabled>
-      <map />
+      <map>
+        <entry key="Usages" value="false" />
+        <entry key="VcsAuthorCodeLensProvider" value="false" />
+      </map>
     </enabled>
   </component>
 </application>

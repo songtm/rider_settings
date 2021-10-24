@@ -1,6 +1,99 @@
 <application>
+  <component name="DebuggerSettings">
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javassist.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.apache.webbeans.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.ibm.ws.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+  </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="valueLookupDelay" value="150" />
+    </data-views>
     <general />
+    <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="allowTypingDuringDebug" value="true" />
+          <option name="automaticallyRefreshWatches" value="true" />
+          <option name="sshCredentials">
+            <option value="&lt;credentials HOST=&quot;192.168.1.2&quot; PORT=&quot;22&quot; USERNAME=&quot;songtm&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
+          </option>
+          <option name="remappedSourceLocationsMap">
+            <map />
+          </option>
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
