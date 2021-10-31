@@ -152,6 +152,10 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="meta f2" />
   </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
   <action id="UsageView.Rerun" />
   <action id="Vcs.EditSource" />
   <action id="WelcomScreen.ManageLicense">
