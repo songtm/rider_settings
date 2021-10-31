@@ -33,6 +33,9 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
@@ -43,6 +46,9 @@
   </action>
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="EvaluateExpression" />
   <action id="FileChooser.GotoDesktop" />
@@ -158,6 +164,7 @@
   </action>
   <action id="UsageView.Rerun" />
   <action id="Vcs.EditSource" />
+  <action id="Vcs.Push" />
   <action id="WelcomScreen.ManageLicense">
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
