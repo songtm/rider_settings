@@ -80,7 +80,9 @@
     <data-views>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
@@ -89,6 +91,11 @@
           <option name="sshCredentials">
             <option value="&lt;credentials HOST=&quot;192.168.1.2&quot; PORT=&quot;22&quot; USERNAME=&quot;songtm&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
           </option>
+        </configuration>
+      </debugger>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <nt-symbol-settings />
         </configuration>
       </debugger>
     </debuggers>
