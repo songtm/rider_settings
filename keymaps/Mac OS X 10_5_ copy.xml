@@ -128,6 +128,9 @@
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="Rerun" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="RiderShowIncomingCalls">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
@@ -139,7 +142,6 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
-  <action id="SelectVirtualTemplateElement" />
   <action id="SendEOF" />
   <action id="ServiceView.ShowServices" />
   <action id="ShelvedChanges.Rename">
@@ -167,9 +169,6 @@
   <action id="Vcs.Push" />
   <action id="WelcomScreen.ManageLicense">
     <keyboard-shortcut first-keystroke="ctrl f4" />
-  </action>
-  <action id="WelcomeScreen.RevealIn">
-    <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
