@@ -13,6 +13,15 @@
     <entry key="ide.borderless.title.classpath" value="false" />
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="rdclient.asyncActions" value="false" />
+    <entry key="ide.require.transaction.for.model.changes" value="false" />
+    <entry key="search.everywhere.pattern.checking" value="false" />
+    <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="parameter.info.max.visible.rows" value="10" />
+    <entry key="performance.watcher.sampling.interval.ms" value="200" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
+    <entry key="ide.tooltip.showAllSeverities" value="true" />
+    <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
+    <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
