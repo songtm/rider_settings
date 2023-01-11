@@ -22,7 +22,7 @@
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>
